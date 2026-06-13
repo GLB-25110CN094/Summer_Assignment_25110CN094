@@ -29,7 +29,15 @@ This repository contains my daily summer assignments and programming practice wo
 | Day 7 | Java | Uploaded |
 | Day 8 | Java | Uploaded |
 | Day 9 | Java | Uploaded |
-| Day 10–30 | Java | In Progress |
+| Day 10 | Java | Uploaded |
+| Day 11 | Java | Uploaded |
+| Day 12| Java | Uploaded |
+| Day 13 | Java | Uploaded |
+| Day 14| Java | Uploaded |
+| Day 15 | Java | Uploaded |
+| Day 16 | Java | Uploaded |
+| Day 17 | Java | Uploaded |
+| Day 18–30 | Java | In Progress |
 
 ## Purpose
 

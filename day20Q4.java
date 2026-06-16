@@ -6,9 +6,6 @@ public class day20Q4 {
         System.out.println("Enter number of rows and colom of matrix : ");
         int m= sc.nextInt();
         int n=sc.nextInt();
-        if(n!=m){
-            System.out.println("it is not a square ,hence not symmetric ");
-        }
        
         //initialise matrix 
         int[][] mat=new int[m][n];

@@ -42,7 +42,12 @@ This repository contains my daily summer assignments and programming practice wo
 | Day 20 | Java | Uploaded |
 | Day 21 | Java | Uploaded |
 | Day 22 | Java | Uploaded |
-| Day 23–30 | Java | In Progress |
+| Day 23 | Java | Uploaded |
+| Day 24 | Java | Uploaded |
+| Day 25 | Java | Uploaded |
+| Day 26 | Java | Uploaded |
+| Day 27 | Java | Uploaded |
+| Day 28–30 | Java | In Progress |
 
 ## Purpose
 
